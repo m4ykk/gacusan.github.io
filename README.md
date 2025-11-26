@@ -2,11 +2,17 @@
 
 This is a static website prototype for a fictional company, **AuraGear**, specializing in high-performance gaming mice.
 
+## 🔗 Live Demo URL
+
+Click below to view the fully responsive website deployed via GitHub Pages:
+
+[VIEW LIVE DEMO HERE](https://m4ykk.github.io/gacusan.github.io/home.html)
+
 ## 🚀 Structure
 
 The project follows a standard web development structure:
 
-* `index.html` (Renamed to `home.html` for clarity) - The main landing page.
+* `home.html` - The main landing page.
 * `about.html` - Information about the company and its philosophy.
 * `contact.html` - A form-based page for user inquiries.
 * `product.html` - A sample page showcasing a specific mouse model.
@@ -22,9 +28,6 @@ The project follows a standard web development structure:
 
 ## ⚙️ Setup
 
-1.  Create a folder named `gaming-mouse-site`.
-2.  Inside, create the seven files listed above.
-3.  Copy and paste the corresponding code into each file.
-4.  Open `home.html` in your web browser.
-
-**Note:** For the design to look complete, you should manually add an `images` folder and include placeholder images (e.g., `mouse-hero.jpg`, `mouse-model.png`) as referenced in the HTML.
+1.  Clone this repository to your local machine.
+2.  Ensure you have an **`images`** folder containing placeholder assets (e.g., `mouse-hero.jpg`).
+3.  Open `home.html` directly in your web browser or use VS Code's Live Server extension.
